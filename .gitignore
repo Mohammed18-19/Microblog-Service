@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Flask
+instance/
